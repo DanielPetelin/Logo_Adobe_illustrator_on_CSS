@@ -1,0 +1,15 @@
+.container {
+    border: 20px solid rgb(255, 124, 0);
+    height: 500px;
+    width: 500px;
+    background-color: rgb(38, 19, 0);
+}
+
+p {
+    text-align: center;
+    font-size: 350px;
+    font-family: Yu Gothic UI Semibold;
+    color: rgb(255, 124, 0);
+    position: relative;
+    margin: auto;
+}
